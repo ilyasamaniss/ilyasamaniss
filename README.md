@@ -3,6 +3,7 @@
 AI/ML engineer and technical product manager in Montreal. I build search, ranking, and LLM-powered products, and I care about measuring whether they actually work. MSc in Machine Learning (Université de Montréal | Mila, Quebec AI Institute founded by Yoshua Bengio) and B.Eng. in Software Engineering (McGill). I work in English and French.
 
 - 🛠️ Currently Technical PM (AI & Data) at FX Replay, building a trading journal and analytics platform for traders. Directed the end-to-end delivery of our **multimodal LLM copilot** (vision-language: text and image understanding) that **deflected ~30% of support tickets**, using **retrieval-augmented generation (RAG)** over a vector database of embedded knowledge-base content and **multi-model routing** across GPT, Claude and Gemini, for a fintech platform with 1M+ users (70K daily active).
+- 📊 Built KPI dashboards for the CEO and leadership that tie each shipped feature to the company's north-star metric and core KPIs.
 - 🤖 I build with Claude and Claude Code every day, for prototyping, evals, agent workflows, and shipping code.
 - 📈 Before that: ML research in systematic trading (FTMO) and ML engineering at CDPQ.
 - 🔎 Interests: multimodal LLMs, hybrid retrieval, learning-to-rank, LLM evaluation and guardrails, agent and tool-calling workflows, A/B testing.
