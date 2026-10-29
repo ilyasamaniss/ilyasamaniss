@@ -4,7 +4,6 @@ AI/ML engineer and technical product manager in Montreal. I build search, rankin
 
 - 🛠️ Currently Technical PM (AI & Data) at FX Replay, building a trading journal and analytics platform for traders. I helped ship a RAG trading copilot with multi-model routing (GPT, Claude, Gemini) on a platform with 1M+ users (70K daily active).
 - 🤖 I build with Claude and Claude Code every day, for prototyping, evals, agent workflows, and shipping code.
-- 🎥 I run **Money Engineer**, a YouTube channel (~20K subscribers) that teaches traders to apply data science and ML.
 - 📈 Before that: ML research in systematic trading (FTMO) and ML engineering at CDPQ.
 - 🔎 Interests: hybrid retrieval, learning-to-rank, LLM evaluation and guardrails, agent and tool-calling workflows, A/B testing.
 
