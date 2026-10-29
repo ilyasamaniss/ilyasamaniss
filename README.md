@@ -10,19 +10,19 @@ AI/ML engineer and technical product manager in Montreal. I build search, rankin
 ## Featured projects
 
 ### [commerce-query-aware-search](https://github.com/ilyasamaniss/commerce-query-aware-search)
-**LLM-powered e-commerce search:** combines LLM query understanding with BM25 keyword retrieval for product search on a Shopify storefront. The LLM (Gemma via Ollama) interprets the shopper's query, and code enforces catalog truth for price and stock.
-- A benchmark suite with pass rate, MRR@5, and constraint-violation metrics, orchestrated with Tangle and SkyPilot
-- On the smoke benchmark, adding query analysis raised pass rate from 50% to 70%, raised MRR@5 from 0.75 to 1.00, and cut constraint failures to zero
+**LLM-powered e-commerce search:** combines LLM query understanding with BM25 keyword retrieval for product search on a Shopify storefront. An open-source LLM (Gemma) interprets what the shopper means, while hard rules guarantee results respect real price and stock.
+- Offline evaluation framework (pass rate, MRR@5, constraint violations) with reproducible ML pipelines and CI
+- Adding LLM query understanding raised the benchmark pass rate from 50% to 70% and MRR@5 from 0.75 to 1.00, with zero constraint violations
 - In progress: **hybrid (BM25 + embeddings)** retrieval and a **React + TypeScript** UI that compares search configurations side by side
 
-`Python` `Shopify Storefront API` `BM25` `Embeddings` `Ollama` `React` `TypeScript` `GitHub Actions`
+`Python` `LLMs` `Search & ranking` `BM25` `Embeddings` `Shopify API` `Evaluation` `CI/CD`
 
 ### [prediction-ranking-of-companies](https://github.com/ilyasamaniss/prediction-ranking-of-companies)
 **Learning-to-rank for investment research.** Master's project (Mila / Université de Montréal) with CDPQ, comparing regression, classification, and ranking models with leakage-safe time-series evaluation and backtesting.
 - The XGBoost ranker's top-20 recommendations beat an equal-weight benchmark by **8.17% on average over 12-month horizons** (2015–2019 test period)
 - Compares ARIMAX, gradient boosting, and LSTM (with time-series clustering), using SHAP for model explainability
 
-`XGBoost` `Learning-to-rank` `LSTM` `ARIMAX` `SHAP` `Time series`
+`Learning-to-rank` `XGBoost` `Time-series forecasting` `LSTM` `Explainable AI (SHAP)` `Backtesting`
 
 ## Toolbox
 
