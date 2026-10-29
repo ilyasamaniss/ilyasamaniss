@@ -26,7 +26,7 @@ Master's project with CDPQ. It frames stock selection as regression, classificat
 
 ## Toolbox
 
-**ML:** PyTorch, TensorFlow, scikit-learn, XGBoost, Transformers/LLMs, embeddings and vector search, SHAP
-**LLM apps:** RAG, evals, guardrails, tool calling and agents, Claude / GPT / Gemini
-**Data & MLOps:** SQL, BigQuery, AWS SageMaker, Docker, Kubernetes, CI/CD, Datadog
-**Product:** roadmaps and PRDs, KPI ownership, A/B testing
+- **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost, Transformers/LLMs, embeddings and vector search, SHAP
+- **LLM apps:** RAG, evals, guardrails, tool calling and agents, Claude / GPT / Gemini
+- **Data & MLOps:** SQL, BigQuery, AWS SageMaker, Docker, Kubernetes, CI/CD, Datadog
+- **Product:** roadmaps and PRDs, KPI ownership, A/B testing
