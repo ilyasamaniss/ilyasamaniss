@@ -14,7 +14,7 @@ AI/ML engineer and technical product manager in Montreal. I build search, rankin
 **LLM-powered e-commerce search:** combines LLM query understanding with **hybrid retrieval (BM25 keyword + embedding-based semantic search)** for product search on a Shopify storefront. An open-source LLM (Gemma) interprets what the shopper means, while hard rules guarantee results respect real price and stock.
 - Offline evaluation framework (pass rate, MRR@5, constraint violations) with reproducible ML pipelines and CI
 - Adding LLM query understanding raised the benchmark pass rate from 50% to 70% and MRR@5 from 0.75 to 1.00, with zero constraint violations
-- Hybrid retrieval fuses BM25 and dense embedding scores, so misspelled or vague queries still find the right product
+- Hybrid retrieval fuses BM25 and dense embedding scores, so misspelled or partial queries still find the right product
 - In progress: a **React + TypeScript** UI that compares search configurations side by side
 
 `Python` `LLMs` `Search & ranking` `BM25` `Embeddings` `Hybrid search` `Shopify API` `Evaluation` `CI/CD`
