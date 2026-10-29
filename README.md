@@ -2,7 +2,7 @@
 
 AI/ML engineer and technical product manager in Montreal. I build search, ranking, and LLM-powered products, and I care about measuring whether they actually work. MSc in Machine Learning (Université de Montréal / Mila) and B.Eng. in Software Engineering (McGill). I work in English and French.
 
-- 🛠️ Currently Technical PM (AI & Data) at FX Replay, building a trading journal and analytics platform for traders. I helped ship a RAG trading copilot with multi-model routing (GPT, Claude, Gemini) on a platform with 1M+ users (70K daily active).
+- 🛠️ Currently Technical PM (AI & Data) at FX Replay, building a trading journal and analytics platform for traders. I helped ship a multimodal RAG trading copilot that reads chart images and screenshots alongside text, with multi-model routing (GPT, Claude, Gemini), on a platform with 1M+ users (70K daily active).
 - 🤖 I build with Claude and Claude Code every day, for prototyping, evals, agent workflows, and shipping code.
 - 📈 Before that: ML research in systematic trading (FTMO) and ML engineering at CDPQ.
 - 🔎 Interests: hybrid retrieval, learning-to-rank, LLM evaluation and guardrails, agent and tool-calling workflows, A/B testing.
@@ -27,7 +27,7 @@ Master's project with CDPQ. It frames stock selection as regression, classificat
 ## Toolbox
 
 - **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost, Transformers/LLMs, embeddings and vector search, SHAP
-- **LLM apps:** RAG, evals, guardrails, tool calling and agents, Claude / GPT / Gemini
+- **LLM apps:** RAG, multimodal (vision) LLMs, evals, guardrails, tool calling and agents, Claude / GPT / Gemini
 - **Data & MLOps:** SQL, BigQuery, AWS SageMaker, Docker, Kubernetes, CI/CD, Datadog
 - **Product:** roadmaps and PRDs, KPI ownership, A/B testing
 
