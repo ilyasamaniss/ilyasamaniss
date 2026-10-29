@@ -15,9 +15,9 @@ AI/ML engineer and technical product manager in Montreal. I build search, rankin
 - Offline evaluation framework (pass rate, MRR@5, constraint violations) with reproducible ML pipelines and CI
 - Adding LLM query understanding raised the benchmark pass rate from 50% to 70% and MRR@5 from 0.75 to 1.00, with zero constraint violations
 - Hybrid retrieval fuses BM25 and dense embedding scores, so misspelled or partial queries still find the right product
-- In progress: a **React + TypeScript** UI that compares search configurations side by side
+- **React + TypeScript** web app that compares two search configurations side by side, backed by a JSON search API
 
-`Python` `LLMs` `Search & ranking` `BM25` `Embeddings` `Hybrid search` `Shopify API` `Evaluation` `CI/CD`
+`Python` `LLMs` `Search & ranking` `BM25` `Embeddings` `Hybrid search` `Shopify API` `React` `TypeScript` `Evaluation` `CI/CD`
 
 ### [prediction-ranking-of-companies](https://github.com/ilyasamaniss/prediction-ranking-of-companies)
 **Learning-to-rank for investment research.** Master's project (Mila / Université de Montréal) with CDPQ, comparing regression, classification, and ranking models with leakage-safe time-series evaluation and backtesting.
