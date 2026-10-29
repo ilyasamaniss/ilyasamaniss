@@ -2,7 +2,16 @@
 
 AI/ML engineer and technical product manager in Montreal. I build LLM products, search, and ranking systems, and I care about measuring whether they actually work. MSc in Machine Learning (Université de Montréal | Mila, Quebec AI Institute founded by Yoshua Bengio), B.Eng. in Software Engineering (McGill). English and French.
 
-**Current focus:** multimodal LLM applications, retrieval-augmented generation (RAG), multi-model routing, AI agents with MCP, and LLM evaluation and guardrails.
+## What I work on
+
+Technical PM (AI & Data) at a fintech platform with 1M+ users (70K daily active), building a trading journal and analytics platform for traders.
+
+- **Multimodal LLM copilot:** directed the end-to-end delivery of a vision-language copilot (text and image understanding) that deflected ~30% of support tickets, using retrieval-augmented generation (RAG) over a vector database of embedded knowledge-base content and multi-model routing across GPT, Claude and Gemini.
+- **AI agents and agentic workflows:** built internal AI agents (Claude skills) connected through MCP to BigQuery, Datadog and other tools. One agent guides product managers to define their product's success metrics and builds their KPI monitoring dashboard; scheduled agent routines refresh every team's dashboards daily to gate feature-flag rollouts against the north-star metric. Trained teams to adopt them.
+- **LLM quality:** automated and human-in-the-loop evaluations (evals), guardrails, and production monitoring of quality, latency and cost.
+- **Product and data:** owned company-wide KPIs and north-star dashboards for leadership, ran A/B tests, and use Claude and Claude Code daily for prototyping and shipping code.
+
+Before that: ML research in systematic trading (FTMO) and ML engineering at CDPQ.
 
 ## Featured projects
 
