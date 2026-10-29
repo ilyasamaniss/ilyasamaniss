@@ -2,7 +2,9 @@
 
 AI/ML engineer and technical product manager in Montreal. I build search, ranking, and LLM-powered products, and I care about measuring whether they actually work. MSc in Machine Learning (Université de Montréal / Mila) and B.Eng. in Software Engineering (McGill). I work in English and French.
 
-- 🛠️ Currently Technical PM (AI & Data) at FX Replay. I shipped a RAG trading copilot with multi-model routing (GPT, Claude, Gemini) that has handled 12K+ conversations, on a platform with 1M+ users.
+- 🛠️ Currently Technical PM (AI & Data) at FX Replay, building a trading journal and analytics platform for traders. I helped ship a RAG trading copilot with multi-model routing (GPT, Claude, Gemini) on a platform with 1M+ users (70K daily active).
+- 🤖 I build with Claude and Claude Code every day, for prototyping, evals, agent workflows, and shipping code.
+- 🎥 I run **Money Engineer**, a YouTube channel (~20K subscribers) that teaches traders to apply data science and ML.
 - 📈 Before that: ML research in systematic trading (FTMO) and ML engineering at CDPQ.
 - 🔎 Interests: hybrid retrieval, learning-to-rank, LLM evaluation and guardrails, agent and tool-calling workflows, A/B testing.
 
@@ -10,10 +12,9 @@ AI/ML engineer and technical product manager in Montreal. I build search, rankin
 
 ### [commerce-query-aware-search](https://github.com/ilyasamaniss/commerce-query-aware-search)
 Query-aware product search for a Shopify storefront. An LLM (Gemma via Ollama) interprets the shopper's query, and code enforces catalog truth for price and stock.
-- BM25, dense, and **hybrid (BM25 + embeddings)** retrieval with score fusion
 - A benchmark suite with pass rate, MRR@5, and constraint-violation metrics, orchestrated with Tangle and SkyPilot
-- A **React + TypeScript** UI that compares two search configurations side by side
 - On the smoke benchmark, adding query analysis raised pass rate from 50% to 70%, raised MRR@5 from 0.75 to 1.00, and cut constraint failures to zero
+- In progress: **hybrid (BM25 + embeddings)** retrieval and a **React + TypeScript** UI that compares search configurations side by side
 
 `Python` `Shopify Storefront API` `BM25` `Embeddings` `Ollama` `React` `TypeScript` `GitHub Actions`
 
@@ -30,3 +31,7 @@ Master's project with CDPQ. It frames stock selection as regression, classificat
 - **LLM apps:** RAG, evals, guardrails, tool calling and agents, Claude / GPT / Gemini
 - **Data & MLOps:** SQL, BigQuery, AWS SageMaker, Docker, Kubernetes, CI/CD, Datadog
 - **Product:** roadmaps and PRDs, KPI ownership, A/B testing
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ilyasamaniss/)
