@@ -11,6 +11,8 @@ Technical PM (AI & Data) at a fintech platform with 1M+ users (70K daily active)
 - **LLM quality:** automated and human-in-the-loop evaluations (evals), guardrails, and production monitoring of quality, latency and cost.
 - **Product and data:** owned company-wide KPIs and north-star dashboards for leadership, ran A/B tests, and use Claude and Claude Code daily for prototyping and shipping code.
 
+**[MedBalance](https://medbalance.ca):** built end-to-end with one partner a bilingual fintech platform (web, iOS, Android) for Canadian healthcare professionals: full-stack apps, bank reconciliation engine, tax-rules engine, accountant-ready reporting, encrypted Canadian data residency.
+
 Before that: ML research in systematic trading (FTMO) and ML engineering at CDPQ.
 
 ## Featured projects
