@@ -13,7 +13,7 @@ Technical PM (AI & Data) at a fintech platform with 1M+ users (70K daily active)
 
 **[MedBalance](https://medbalance.ca):** Built a bilingual fintech platform for Canadian healthcare professionals end-to-end with one partner. It runs on web, iOS and Android, with a bank reconciliation engine, a tax-rules engine and accountant-ready reports. All data is encrypted and stored in Canada.
 
-Before that: ML research in systematic trading (FTMO) and ML engineering at CDPQ.
+Before that: ML research in systematic trading (FTMO, 2021–2025) and machine learning engineering at CDPQ (2020–2021), where I deployed ranking models to production for the finance team.
 
 ## Featured projects
 
